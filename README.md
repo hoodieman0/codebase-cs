@@ -8,10 +8,11 @@ My set of common tools used to code C# projects. Files in the repository are
 meant to be independent from each other.
 
 ## Usage
-Copy the code to the proejct you want to use them.
+Copy the code to the project you want to use them.
 
 ## Requirements
 None
 
 ## Contributing
-Feel free to fork the code for modifications.
+Pull requests will not be accepted, however feel free to modify the code as 
+you see fit in your own fork.
